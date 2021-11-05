@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">assset raw folder</string>
+    <string name="button">Button</string>
+    <string name="play_mp3">Play Mp3</string>
+    <string name="Pause_mp3">Pause_mp3</string>
+    <string name="pause_mp3">Pause Mp3</string>
+    <string name="stop">Stop</string>
+</resources>
